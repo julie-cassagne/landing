@@ -1,0 +1,15 @@
+.container-center {
+	width: 700px;
+	margin: 0 auto;
+	text-align:center;
+}
+
+.contenair-center h2{
+  padding: 30px;
+}
+
+.container-left{
+  text-align: left;
+  width: 700px;
+  margin: 50px auto;
+}

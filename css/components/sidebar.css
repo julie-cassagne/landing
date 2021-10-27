@@ -1,0 +1,37 @@
+.sidebar-vertical{
+  position: fixed;
+  width: 200px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #fec89a;
+  margin: none;
+  border-right: 10px;
+  box-sizing: border-box;
+
+}
+
+.sidebar-vertical ul{
+  list-style: none;
+  padding-left: 6px;
+}
+
+.sidebar-vertical li{
+  padding: 10px;
+  text-align: center;
+}
+
+.sidebar-vertical h3{
+  margin-top: 50px;
+}
+
+.sidebar-vertical a{
+  font-family:  'Roboto', sans-serif;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.sidebar-vertical a:hover{
+  color: indianred;
+  transition: 0.3 ease;
+}

@@ -1,0 +1,9 @@
+.list-inline{
+  margin: 20px;
+
+}
+
+.list-inline li{
+  text-align:center;
+  padding: 10px;
+}

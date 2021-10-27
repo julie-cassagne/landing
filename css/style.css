@@ -1,0 +1,43 @@
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto+Slab&display=swap");
+
+
+/*Importing all components file */
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/sidebar.css");
+@import url("components/page-content.css");
+@import url("components/apply-section.css");
+@import url("components/list.css");
+
+
+/* General style rules for fonts and colours */
+body {
+	font-family: 'Lora', serif;
+	font-size: 15px;
+	margin: 0 auto;
+	background-color: whitesmoke;
+	color: dark;
+	text-align: center;
+}
+
+h1,h2,h3 {
+	font-family:  'Roboto', sans-serif;
+	font-weight: bold;
+	color: indianred;
+	font-size: 20px;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	padding: 20px;
+}
+
+a:hover{
+	color: indianred;
+}
